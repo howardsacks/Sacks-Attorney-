@@ -52,12 +52,12 @@
     <nav aria-label="Primary">
       <button class="menu-btn" id="menuBtn" aria-controls="navLinks" aria-expanded="false">Menu</button>
       <div class="navlinks" id="navLinks">
-        <a href="/" aria-current="page">Home</a>
-        <a href="/about.html">About</a>
-        <a href="/services.html">Services</a>
-        <a href="/locations.html">Areas</a>
-        <a href="/contact.html">Contact</a>
-        <a class="cta" href="tel:+27111234567"><span>Call</span> 011 123 4567</a>
+  <a href="index.html" aria-current="page">Home</a>
+  <a href="about.html">About</a>
+  <a href="services.html">Services</a>
+  <a href="locations.html">Areas</a>
+  <a href="contact.html">Contact</a>
+</div>
       </div>
     </nav>
   </div>
