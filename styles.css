@@ -118,7 +118,28 @@ textarea{min-height:140px;resize:vertical}
 .imgConvey{ background-image: url("images/conveyancing.jpg"); }
 .imgLit{    background-image: url("images/litigation.jpg"); }
 .imgFam{    background-image: url("images/family.jpg"); }
-.imgEst{    background-image: url("images/estates.jpg"); }
+.imgEst{   background-image: url("images/estates.jpg"); }
+}
+.heroMedia{
+  background-image:url("images/hero.jpg");
+}
 
-  
+.splitImg{
+  background-image:url("images/about.jpg");
+}
+
+.imgConvey{
+  background-image:url("images/convetencing.jpg");
+}
+
+.imgLit{
+  background-image:url("images/litigation.jpg");
+}
+
+.imgFam{
+  background-image:url("images/family.jpg");
+}
+
+.imgEst{
+  background-image:url("images/estates.jpg");
 }
