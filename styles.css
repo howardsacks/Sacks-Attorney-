@@ -92,6 +92,33 @@ textarea{min-height:140px;resize:vertical}
   .grid-2{grid-template-columns:1fr}
   .split{grid-template-columns:1fr}
   .menu-btn{display:inline-flex}
-  .navlinks{display:none;position:absolute;right:18px;top:64px;flex-direction:column;align-items:stretch;background:#fff;border:1px solid var(--border);border-radius:16px;padding:10px;min-width:250px;box-shadow:var(--shadow)}
-  .navlinks.open{display:flex}
+  .navlinks{display:none;position:a
+    bsolute;right:18px;top:64px;flex-direction:column;align-items:stretch;background:#fff;border:1px solid var(--border);border-radius:16px;padding:10px;min-width:250px;box-shadow:var(--shadow)}
+  .navlinks.open{display:flex}/* ====== IMAGES (backgrounds) ====== */
+.heroMedia{
+  background-image: url("images/hero.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.splitImg{
+  background-image: url("images/split.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  min-height: 360px;
+}
+
+.serviceImg{
+  background-size: cover;
+  background-position: center;
+}
+
+/* Service cards */
+.imgConvey{ background-image: url("images/conveyancing.jpg"); }
+.imgLit{    background-image: url("images/litigation.jpg"); }
+.imgFam{    background-image: url("images/family.jpg"); }
+.imgEst{    background-image: url("images/estates.jpg"); }
+
+  
 }
